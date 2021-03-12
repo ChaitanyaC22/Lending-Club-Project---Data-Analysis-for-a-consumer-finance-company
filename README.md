@@ -57,3 +57,7 @@ You can access the data dictionary which describes the meaning of these variable
     -   Include visualisations and summarise the most important results in the presentation
 
 You need to submit one IPython notebook (.ipynb extension) which clearly explains the thought process behind your analysis (either in comments of markdown text), code and relevant plots. 
+
+## Jupyter Notebook Viewer
+If you are unable to view or load the jupyter IPython notebook via the Github, please click on this [link](https://nbviewer.jupyter.org/github/ChaitanyaC22/Lending-Club-Project---Data-Analysis-for-a-consumer-finance-company/blob/chai_main/Lending_Club_Loan_Data_Analysis.ipynb).
+Thank you!
